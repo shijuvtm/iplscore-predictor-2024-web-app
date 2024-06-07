@@ -18,3 +18,4 @@
 ### 8. A variety of machine learning algorithms, such as gradient boosting, support vector regression, random forest, and linear regression, are used in the project. To implement these algorithms, appropriate Python tools and frameworks such as Scikit-learn, XGBoost, or LightGBM are utilised. The criteria and specifics of the IPL score prediction challenge are taken into consideration when choosing an algorithm.
 ## FRONT END
 ### CREATING WEB APPLICATION USING STREAMLIT
+
