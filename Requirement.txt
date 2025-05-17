@@ -1,8 +1,8 @@
 numpy
 pandas
-seaborn==0.13.2
-xgboost==2.0.3
-sciktit-learn==1.5.0
+seaborn
+xgboost
+sciktit-learn
 scipy
 streamlit
 streamlit-option-menu
